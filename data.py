@@ -1,0 +1,11 @@
+MAIN_URL = 'https://stellarburgers.nomoreparties.site/'
+LOGIN_URL = 'login'
+FORGOT_PASSWORD_URL = 'forgot-password'
+ORDER_URL = 'feed'
+ORDER_HISTORY_URL = 'account/order-history'
+RESET_PASSWORD_URL = '/reset-password'
+
+TEST_USER_EMAIL = 'burlakova14@yandex.ru'
+TEST_USER_PASSWORD = '11111111'
+TEST_USER_NAME = 'TestUser'
+TEST_USER_NEW_PASSWORD = 'abcde'
